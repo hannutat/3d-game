@@ -1,6 +1,6 @@
 Practice work
 
-2D game made with Unity engine as a part of studies. This directory only contains the parts of code that I have made myself and it is not a complete Unity project. The programming is done in C#.
+3D game made with Unity engine as a part of studies. This directory only contains the parts of code that I have made myself and it is not a complete Unity project. The programming is done in C#.
 
 The game uses mostly Unity stock assets and some free public domain assets. The playable characters are stock Unity characters. There are two levels in the game. 
 
